@@ -1,2 +1,4 @@
 Mi primer documento en el repositorio REPOS
 GUARDANDO MI PRIMER DOCUMENTO TXT
+
+pronado el GIT
